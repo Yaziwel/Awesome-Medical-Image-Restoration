@@ -12,12 +12,12 @@
 ## Table of Contents 
 
 - [All-in-One MedIR](#all-in-one-medir)
-  - [2024](2024) | [2025](2025)
+  - [2024](#2024) | [2025](#2025)
 
 - [Single-Task MedIR](#single-task-medir)
-  - [2024](2024) | [2025](2025) 
+  - [2024](#2024) | [2025](#2025) 
 
-- [Benchmarks](benchmarks)
+- [Benchmarks](#benchmarks)
 
 ### All-in-One MedIR
 
